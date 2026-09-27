@@ -2,6 +2,9 @@ This is a full deobfuscator for hide.lat lite preset
 made by axom. 
 
 # USAGE 
+```git clone https://github.com/axomtools/hidelat-deobfuscator-byaxom.git```
+```cd hidelat-deobfuscator-byaxom```
+
 `obfuscated.lua` → replace with your input file name
 `output.lua` → replace with any file name you want as the output file
 `-r/--rename` → renames variables to meaningful names
@@ -23,7 +26,7 @@ YOU NEED :
 Install on Android :
 ```
 pkg update
-pkg install lua53 python```
+pkg install lua53 python
 
 Install on Debian,Ubuntu,Kali :
 ```
